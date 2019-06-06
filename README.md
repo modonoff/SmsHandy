@@ -1,2 +1,2 @@
 # SmsHandy
-# University Project
+# University Project with JavaFX
